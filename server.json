@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt":  "2023-03-28T19:54:30.822Z"
+      "createdAt": "2023-03-28T19:54:30.822Z"
     },
     {
       "id": 2,
@@ -14,7 +14,15 @@
       "type": "outcome",
       "category": "Casa",
       "price": 100,
-      "createdAt":  "2023-03-28T19:50:30.822Z"
+      "createdAt": "2023-03-28T19:50:30.822Z"
+    },
+    {
+      "description": "Conta de internet",
+      "price": 120,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2023-03-29T21:09:32.434Z",
+      "id": 3
     }
   ]
 }
